@@ -1,0 +1,8 @@
+[gd_resource type="CanvasTexture" load_steps=3 format=3 uid="uid://gbt32pfu53ca"]
+
+[ext_resource type="Texture2D" uid="uid://chf7fekte0oth" path="res://assets/player/Lightkeeper_body.png" id="1_gigye"]
+[ext_resource type="Texture2D" uid="uid://b0f5hln43cxc6" path="res://assets/player/Lightkeeper_body_nmap.png" id="2_0qtxv"]
+
+[resource]
+diffuse_texture = ExtResource("1_gigye")
+normal_texture = ExtResource("2_0qtxv")
